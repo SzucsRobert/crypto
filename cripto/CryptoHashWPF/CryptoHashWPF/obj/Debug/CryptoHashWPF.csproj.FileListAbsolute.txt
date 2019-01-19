@@ -1,0 +1,30 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\MainWindow.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\App.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF_MarkupCompile.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF_MarkupCompile.lref
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\MainWindow.baml
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.g.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csproj.GenerateResource.Cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.pdb
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csprojResolveAssemblyReference.cache
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\App.g.cs
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF_MarkupCompile.cache
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF_MarkupCompile.lref
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.exe
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.pdb
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.exe.config
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.exe
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\bin\Debug\CryptoHashWPF.pdb
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\MainWindow.baml
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.g.resources
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.Properties.Resources.resources
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csproj.GenerateResource.Cache
+C:\Users\Robi\Desktop\CryptografieHashes-master\CryptoHashWPF\CryptoHashWPF\obj\Debug\CryptoHashWPF.csproj.CoreCompileInputs.cache

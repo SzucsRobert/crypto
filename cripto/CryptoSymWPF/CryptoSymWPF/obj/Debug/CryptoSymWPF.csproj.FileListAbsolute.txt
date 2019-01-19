@@ -1,0 +1,15 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\bin\Debug\CryptoSymWPF.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\bin\Debug\CryptoSymWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\bin\Debug\CryptoSymWPF.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\MainWindow.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\App.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF_MarkupCompile.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF_MarkupCompile.lref
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\MainWindow.baml
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.g.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.csproj.GenerateResource.Cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CryptoSymWPF\CryptoSymWPF\obj\Debug\CryptoSymWPF.pdb
